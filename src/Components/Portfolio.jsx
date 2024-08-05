@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "React.JS app with NASA API  🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Develop a React.js application utilizing NASA's API to dynamically fetch and display space-related content.",
+    url: "https://apod-reactjs-app.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Todo List Manager",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Create a React.js application to manage a Todo list, enabling users to add, edit, and delete tasks efficiently.",
+    url: "https://rreactjs-todos.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Contacts Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Develop an Express.js backend API for managing user contacts, providing functionalities for registration, authentication, and CRUD operations on contacts.",
+    url: "https://github.com/ArshdevSinghji/mycontacts-backend",
   },
 ];
 
